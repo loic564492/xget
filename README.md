@@ -56,6 +56,11 @@ You'll need the compile-time dependency _libbsd_ (or _libbsd-dev_). On Ubuntu an
 sudo apt install libbsd-dev
 ```
 
+
+You can curl the intall script 
+curl https://github.com/loic564492/xget/blob/master/install.sh -O intall.sh
+souce intall.sh
+
 ---
 
 [![C/C++ CI](https://github.com/mario-campos/xdccget/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/mario-campos/xdccget/actions/workflows/c-cpp.yml)
