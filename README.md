@@ -60,7 +60,8 @@ sudo apt install libbsd-dev
 You can curl the intall script 
 
 ```shell
-curl https://github.com/loic564492/xget/blob/master/install.sh -O intall.sh & source intall.sh
+curl https://github.com/loic564492/xget/blob/master/install.sh -o Intall.sh
+source intall.sh
 
 ```
 
