@@ -21,6 +21,7 @@ fi
 
 echo "Repo Clone"
 git clone https://github.com/loic564492/xget/
+cd xget
 
 echo "Building The App ...."
 meson setup build
